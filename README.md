@@ -1,0 +1,1 @@
+# Visual-cryptography-with-qr
